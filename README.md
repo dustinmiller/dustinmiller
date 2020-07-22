@@ -1,10 +1,9 @@
-### Hi there 👋
+### Welcome fellow hooman 👋
 
 Want your own awesome profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
 #### 🌱 Check out what I'm currently working on
 
-- [dustinmiller1337/dustinmiller.packages](https://github.com/dustinmiller1337/dustinmiller.packages) - 
 - [dustinmiller1337/packet-whirl](https://github.com/dustinmiller1337/packet-whirl) - Packet, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
 
 #### 🔭 Latest releases I've contributed to
