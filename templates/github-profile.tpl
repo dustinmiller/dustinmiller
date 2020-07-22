@@ -17,10 +17,6 @@ Want your own awesome profile page? Check out [readme-scribe](https://github.com
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 💬 Feedback
+#### 💬 Feedback and 📫 How to reach me
 
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
-
-Not yet
+Hit me up <dustin@packet.com>
