@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome fellow hooman 👋
 
 Want your own awesome profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
