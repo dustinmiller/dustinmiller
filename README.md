@@ -6,6 +6,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dev-sec/ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) ([6.2.0](https://github.com/dev-sec/ansible-os-hardening/releases/tag/6.2.0), today) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [packethost/packet-python](https://github.com/packethost/packet-python) ([v1.43.0](https://github.com/packethost/packet-python/releases/tag/v1.43.0), 1 month ago) - A Python client for the Packet API
 - [bmc-toolbox/bmcbutler](https://github.com/bmc-toolbox/bmcbutler) ([v0.0.9](https://github.com/bmc-toolbox/bmcbutler/releases/tag/v0.0.9), 3 months ago) - BMC configuration management tool
 - [muesli/beehive](https://github.com/muesli/beehive) ([v0.4.0](https://github.com/muesli/beehive/releases/tag/v0.4.0), 4 months ago) - A flexible event/agent &amp; automation system with lots of bees 🐝
