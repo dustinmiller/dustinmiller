@@ -6,6 +6,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dustinmiller1337/packet-whirl](https://github.com/dustinmiller1337/packet-whirl) ([v0.2](https://github.com/dustinmiller1337/packet-whirl/releases/tag/v0.2), today) - Packet, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
 - [packethost/docs](https://github.com/packethost/docs) ([1.0](https://github.com/packethost/docs/releases/tag/1.0), 1 week ago) - Product documentation for the Packet Bare Metal Cloud.
 - [bmc-toolbox/bmcbutler](https://github.com/bmc-toolbox/bmcbutler) ([v0.1.1](https://github.com/bmc-toolbox/bmcbutler/releases/tag/v0.1.1), 2 weeks ago) - BMC configuration management tool
 - [packethost/packet-python](https://github.com/packethost/packet-python) ([v1.43.0](https://github.com/packethost/packet-python/releases/tag/v1.43.0), 2 months ago) - A Python client for the Packet API
