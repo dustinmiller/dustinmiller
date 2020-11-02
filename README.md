@@ -2,11 +2,11 @@
 
 #### 🌱 Check out what I'm currently working on 👤🤖
 
-- [dustinmiller1337/terraform-metal-whirl](https://github.com/dustinmiller1337/terraform-metal-whirl) - Equinix Metal, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
+- [dustinmiller1337/terraform-metal-whirl](https://github.com/dustinmiller1337/terraform-metal-whirl) - Metal, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
 
 #### 🔭 Latest releases I've contributed to 🛠️
 
-- [dustinmiller1337/terraform-metal-whirl](https://github.com/dustinmiller1337/terraform-metal-whirl) ([v0.2](https://github.com/dustinmiller1337/terraform-metal-whirl/releases/tag/v0.2), 1 month ago) - Equinix Metal, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
+- [dustinmiller1337/terraform-metal-whirl](https://github.com/dustinmiller1337/terraform-metal-whirl) ([v0.2](https://github.com/dustinmiller1337/terraform-metal-whirl/releases/tag/v0.2), 1 month ago) - Metal, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
 - [packethost/docs-packet-legacy](https://github.com/packethost/docs-packet-legacy) ([1.0](https://github.com/packethost/docs-packet-legacy/releases/tag/1.0), 1 month ago) - Product documentation for the Packet Bare Metal Cloud.
 - [bmc-toolbox/bmcbutler](https://github.com/bmc-toolbox/bmcbutler) ([v0.1.1](https://github.com/bmc-toolbox/bmcbutler/releases/tag/v0.1.1), 1 month ago) - BMC configuration management tool
 - [packethost/packet-python](https://github.com/packethost/packet-python) ([v1.43.0](https://github.com/packethost/packet-python/releases/tag/v1.43.0), 3 months ago) - A Python client for the Packet API
