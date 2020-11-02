@@ -15,6 +15,6 @@
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 💬 Feedback and 📫 How to reach me
+#### 💬 Feedback and 📫 How to reach me 🎉
 
 Hit me up <dustin@packet.com>
