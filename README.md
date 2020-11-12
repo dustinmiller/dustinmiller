@@ -7,9 +7,9 @@
 
 #### 🔭 Latest releases I've contributed to 🛠️
 
-- [dev-sec/ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) ([7.0.0](https://github.com/dev-sec/ansible-os-hardening/releases/tag/7.0.0), today) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
-- [dustinmiller1337/terraform-metal-whirl](https://github.com/dustinmiller1337/terraform-metal-whirl) ([v0.3](https://github.com/dustinmiller1337/terraform-metal-whirl/releases/tag/v0.3), 2 days ago) - Metal, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
-- [dustinmiller1337/docker-racadm](https://github.com/dustinmiller1337/docker-racadm) ([v0.2](https://github.com/dustinmiller1337/docker-racadm/releases/tag/v0.2), 4 days ago) - docker-racadm
+- [dev-sec/ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) ([7.0.0](https://github.com/dev-sec/ansible-os-hardening/releases/tag/7.0.0), 1 day ago) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [dustinmiller1337/terraform-metal-whirl](https://github.com/dustinmiller1337/terraform-metal-whirl) ([v0.3](https://github.com/dustinmiller1337/terraform-metal-whirl/releases/tag/v0.3), 3 days ago) - Metal, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
+- [dustinmiller1337/docker-racadm](https://github.com/dustinmiller1337/docker-racadm) ([v0.2](https://github.com/dustinmiller1337/docker-racadm/releases/tag/v0.2), 5 days ago) - docker-racadm
 - [packethost/docs-packet-legacy](https://github.com/packethost/docs-packet-legacy) ([1.0](https://github.com/packethost/docs-packet-legacy/releases/tag/1.0), 1 month ago) - Product documentation for the Packet Bare Metal Cloud.
 - [bmc-toolbox/bmcbutler](https://github.com/bmc-toolbox/bmcbutler) ([v0.1.1](https://github.com/bmc-toolbox/bmcbutler/releases/tag/v0.1.1), 2 months ago) - BMC configuration management tool
 - [muesli/beehive](https://github.com/muesli/beehive) ([v0.4.0](https://github.com/muesli/beehive/releases/tag/v0.4.0), 7 months ago) - A flexible event/agent &amp; automation system with lots of bees 🐝
