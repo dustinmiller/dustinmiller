@@ -2,12 +2,13 @@
 
 #### 🌱 Check out what I'm currently working on 👤🤖
 
-- [dustinmiller1337/docker-ilorest](https://github.com/dustinmiller1337/docker-ilorest) - 
+- [dustinmiller1337/docker-ilorest](https://github.com/dustinmiller1337/docker-ilorest) - docker-ilorest
 - [dustinmiller1337/docker-racadm](https://github.com/dustinmiller1337/docker-racadm) - docker-racadm
 - [dustinmiller1337/terraform-metal-whirl](https://github.com/dustinmiller1337/terraform-metal-whirl) - Metal, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
 
 #### 🔭 Latest releases I've contributed to 🛠️
 
+- [dustinmiller1337/docker-ilorest](https://github.com/dustinmiller1337/docker-ilorest) ([0.1](https://github.com/dustinmiller1337/docker-ilorest/releases/tag/0.1), today) - docker-ilorest
 - [bmc-toolbox/bmcbutler](https://github.com/bmc-toolbox/bmcbutler) ([v0.1.3](https://github.com/bmc-toolbox/bmcbutler/releases/tag/v0.1.3), 1 week ago) - BMC configuration management tool
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) ([7.0.0](https://github.com/dev-sec/ansible-collection-hardening/releases/tag/7.0.0), 3 weeks ago) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [dustinmiller1337/terraform-metal-whirl](https://github.com/dustinmiller1337/terraform-metal-whirl) ([v0.3](https://github.com/dustinmiller1337/terraform-metal-whirl/releases/tag/v0.3), 3 weeks ago) - Metal, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
