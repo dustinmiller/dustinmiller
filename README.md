@@ -8,12 +8,12 @@
 
 #### 🔭 Latest releases I've contributed to 🛠️
 
-- [bmc-toolbox/bmcbutler](https://github.com/bmc-toolbox/bmcbutler) ([v0.1.4](https://github.com/bmc-toolbox/bmcbutler/releases/tag/v0.1.4), 1 day ago) - BMC configuration management tool
+- [bmc-toolbox/bmcbutler](https://github.com/bmc-toolbox/bmcbutler) ([v0.1.4](https://github.com/bmc-toolbox/bmcbutler/releases/tag/v0.1.4), 2 days ago) - BMC configuration management tool
 - [dustinmiller/docker-racadm](https://github.com/dustinmiller/docker-racadm) ([0.4](https://github.com/dustinmiller/docker-racadm/releases/tag/0.4), 2 months ago) - docker-racadm
 - [dustinmiller/docker-ilorest](https://github.com/dustinmiller/docker-ilorest) ([0.2](https://github.com/dustinmiller/docker-ilorest/releases/tag/0.2), 2 months ago) - docker-ilorest
 - [dustinmiller/terraform-metal-whirl](https://github.com/dustinmiller/terraform-metal-whirl) ([v0.3](https://github.com/dustinmiller/terraform-metal-whirl/releases/tag/v0.3), 4 months ago) - Metal, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
 - [packethost/docs-packet-legacy](https://github.com/packethost/docs-packet-legacy) ([1.0](https://github.com/packethost/docs-packet-legacy/releases/tag/1.0), 6 months ago) - Product documentation for the Packet Bare Metal Cloud.
-- [muesli/beehive](https://github.com/muesli/beehive) ([v0.4.0](https://github.com/muesli/beehive/releases/tag/v0.4.0), 11 months ago) - A flexible event/agent &amp; automation system with lots of bees 🐝
+- [muesli/beehive](https://github.com/muesli/beehive) ([v0.4.0](https://github.com/muesli/beehive/releases/tag/v0.4.0), 1 year ago) - A flexible event/agent &amp; automation system with lots of bees 🐝
 
 #### 👯 Check out some of my recent followers 🥳
 
