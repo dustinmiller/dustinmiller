@@ -5,6 +5,7 @@
 - [dustinmiller/docker-ilorest](https://github.com/dustinmiller/docker-ilorest) - docker-ilorest
 - [dustinmiller/docker-racadm](https://github.com/dustinmiller/docker-racadm) - docker-racadm
 - [dustinmiller/terraform-metal-whirl](https://github.com/dustinmiller/terraform-metal-whirl) - Metal, Terraform, Ansible, Docker, Cloudflare, LetsEncrypt, Traefik
+- [dustinmiller/image-centos](https://github.com/dustinmiller/image-centos) - Packet CentOS Image
 
 #### 🔭 Latest releases I've contributed to 🛠️
 
