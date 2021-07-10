@@ -17,11 +17,11 @@
 
 #### 👯 Check out some of my recent followers 🥳
 
+- [Novusvetus](https://github.com/Novusvetus)
 - [audrealdanskin](https://github.com/audrealdanskin)
 - [andy-v-h](https://github.com/andy-v-h)
 - [merhyz](https://github.com/merhyz)
 - [zsmith928](https://github.com/zsmith928)
-- [trapexit](https://github.com/trapexit)
 
 #### 💬 Feedback and 📫 How to reach me 🎉
 
